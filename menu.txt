@@ -1,0 +1,85 @@
+
+0
+0
+0
+0
+Veggie Burger
+1
+8.99
+25
+0
+Veggie Wrap
+1
+7.49
+20
+0
+Grilled Cheese Sandwich
+1
+5.99
+30
+0
+Vegetable Stir Fry
+1
+9.49
+18
+0
+Vegan Buddha Bowl
+2
+10.99
+15
+0
+Vegan Tacos
+2
+8.49
+20
+0
+Vegan Quinoa Salad
+2
+9.29
+12
+0
+Vegan Chili
+2
+7.99
+25
+0
+GluntenFree Margherita Pizza
+3
+11.49
+10
+0
+Grilled Chicken Sandwich
+3
+10.99
+18
+0
+GluntenFree Pancakes
+3
+6.99
+15
+0
+GluntenFree Pasta Primavera
+3
+12.49
+14
+0
+Iced Latte
+4
+4.29
+30
+0
+Fresh Fruit Smoothie
+4
+5.99
+20
+0
+Cappuccino
+4
+3.49
+25
+0
+Lemonade
+4
+2.99
+35
+0
